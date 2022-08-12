@@ -8,9 +8,9 @@ Provided a more in-depth analysis of UFO sightings by allowing users to filter f
 
 Use the 'Filter Search' to search for the wanted criteria and press 'Enter' on keyboard. Note that it is all lower case and that each filter is not require to conduct a search.
 
-![Image_1](C:\Users\ariv9\Washu-Bootcamp\Module_11\UFOs\Filter Search.png)
+![Image_1](https://github.com/xanderbilt23/UFOs/blob/main/Filter%20Search.png)
 
-![Image_1](C:\Users\ariv9\Washu-Bootcamp\Module_11\UFOs\Filter Search.png)
+![Image_2](https://github.com/xanderbilt23/UFOs/blob/main/Filter%20Perameters.png)
 
 ## Summary
 
